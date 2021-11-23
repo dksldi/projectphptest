@@ -17,4 +17,5 @@ function check_input(){
                 return;
         }
 	document.k8s.submit();
+}
 

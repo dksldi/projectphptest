@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>컨테이너 생성</title>
+	<title>WORDPRESS 컨테이너 생성</title>
 	<link rel="stylesheet" type="text/css" href="./css/project.css">
 	<script type="text/javascript" src="./js/k8s.js"></script>
 </head>

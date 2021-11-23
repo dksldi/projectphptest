@@ -35,7 +35,9 @@
 		exit;
 	}
 	if($result) {
-	?>	<script>
+	?>	
+	<?php shell_exec("sudo kubectl create namespace $ns")?>
+		<script>
 			alert('가입 되었습니다');
 			location.replace("./index.php");
 		</script>

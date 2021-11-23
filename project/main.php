@@ -13,7 +13,7 @@
 			<center>메뉴<hr /><br /><br />
 			<a href="index.php">HOME</a><br /><br />
 			<a href="notyet.php">git저장소 이동</a><br /><br />
-			<a href="kubeyaml.php">콘테이너 생성</a><br /><br />
+			<a href="deployselect.php">콘테이너 생성</a><br /><br />
 			<a href="http://10.0.105.20:30004">클러스터+콘테이너 상태</a><br /><br />
 			</center>
 		</h3>
