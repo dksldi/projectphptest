@@ -11,11 +11,6 @@ function check_input(){
                 return;
         }
 	
-	if (!document.k8s.label.value)
-        {
-                alert("라벨이 입력되지 않았습니다");
-                return;
-        }
 	document.k8s.submit();
 }
 
